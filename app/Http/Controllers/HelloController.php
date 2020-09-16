@@ -7,6 +7,6 @@ class HelloController
 
     public function hello()
     {
-        return "This is created by Syahnur";
+        return view('test');
     }
 }
